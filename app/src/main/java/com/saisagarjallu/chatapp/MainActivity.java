@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
 
                 User user = dataSnapshot.getValue(User.class);
+                if(user == null) return;
                 username.setText(user.getUsername());
 
                 if (user.getImageURL().equals("default")){

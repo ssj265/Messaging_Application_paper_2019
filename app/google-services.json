@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489127629022",
+    "firebase_url": "https://chatapp-eb995.firebaseio.com",
+    "project_id": "chatapp-eb995",
+    "storage_bucket": "chatapp-eb995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489127629022:android:44c06e8d8d20d420b1b24f",
+        "android_client_info": {
+          "package_name": "com.saisagarjallu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489127629022-55u57p17jm2nkpa21f47ropiff6vnivn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-z1dXvCt7ENjxyaNJ9X7LaaETqFFV9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489127629022-55u57p17jm2nkpa21f47ropiff6vnivn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

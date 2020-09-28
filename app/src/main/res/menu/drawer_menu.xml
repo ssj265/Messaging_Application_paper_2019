@@ -11,7 +11,7 @@
         <item
             android:id="@+id/nav_profile"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/profile" />
+            android:title="@string/email" />
     </group>
 
 </menu>
